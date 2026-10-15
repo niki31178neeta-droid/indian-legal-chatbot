@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+.milpac_semantic_index.pkl
+.streamlit/secrets.toml
